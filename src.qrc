@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>images/car_side.ico</file>
+        <file>images/car_front.ico</file>
+        <file>images/gas_station.png</file>
+    </qresource>
+</RCC>
